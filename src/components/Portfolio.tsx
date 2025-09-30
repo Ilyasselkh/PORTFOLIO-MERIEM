@@ -31,8 +31,8 @@ const Portfolio = () => {
   const downloadCV = () => {
     try {
       const link = document.createElement('a');
-      link.href = '/cv/cv-meryem.pdf';
-      link.download = 'CV-Meryem-BOURAMTANE.pdf';
+      link.href = '/cv/cv-meriem.pdf';
+      link.download = 'CV-Meriem-BOURAMTANE.pdf';
       link.target = '_blank';
       link.rel = 'noopener noreferrer';
       
@@ -377,7 +377,7 @@ const Portfolio = () => {
               <a href="mailto:meriembouramtane@gmail.com" className="p-3 rounded-full bg-white/10 hover:bg-white/20 transition-all duration-300">
                 <Mail size={24} />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-3 rounded-full bg-white/10 hover:bg-white/20 transition-all duration-300">
+              <a href="https://www.linkedin.com/in/meriem-bouramtane-479934167/" target="_blank" rel="noopener noreferrer" className="p-3 rounded-full bg-white/10 hover:bg-white/20 transition-all duration-300">
                 <Linkedin size={24} />
               </a>
             </div>
@@ -675,7 +675,7 @@ const Portfolio = () => {
                 <div className="pt-6">
                   <p className="font-semibold mb-3">Retrouvez-moi sur :</p>
                   <div className="flex space-x-4">
-                    <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-3 bg-emerald-600/20 hover:bg-emerald-600/30 rounded-lg transition-colors">
+                    <a href="https://www.linkedin.com/in/meriem-bouramtane-479934167/" target="_blank" rel="noopener noreferrer" className="p-3 bg-emerald-600/20 hover:bg-emerald-600/30 rounded-lg transition-colors">
                       <Linkedin size={24} />
                     </a>
                   </div>
@@ -799,7 +799,7 @@ const Portfolio = () => {
               <a href="mailto:meriembouramtane@gmail.com" className="text-emerald-600 hover:text-emerald-700 transition-colors">
                 <Mail size={20} />
               </a>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-cyan-600 hover:text-cyan-700 transition-colors">
+              <a href="https://www.linkedin.com/in/meriem-bouramtane-479934167/" target="_blank" rel="noopener noreferrer" className="text-cyan-600 hover:text-cyan-700 transition-colors">
                 <Linkedin size={20} />
               </a>
             </div>
