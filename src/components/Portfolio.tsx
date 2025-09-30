@@ -344,7 +344,7 @@ const Portfolio = () => {
             
             <div className="mb-8">
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 bg-gradient-to-r from-emerald-500 via-cyan-500 to-purple-500 bg-clip-text text-transparent">
-                BOURAMTANE MERYIEM
+                BOURAMTANE MERIEM
               </h1>
               <p className="text-xl sm:text-2xl lg:text-3xl mb-8 text-gray-300">
                 Ingénieure <span className="text-emerald-400">Énergie & Data</span> • 
