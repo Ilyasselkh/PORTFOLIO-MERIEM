@@ -253,7 +253,7 @@ const Portfolio = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-4">
             <div className="text-xl font-bold bg-gradient-to-r from-emerald-500 via-cyan-500 to-purple-500 bg-clip-text text-transparent">
-              BOURAMTANE MERYEM
+              BOURAMTANE MERIEM
             </div>
             
             {/* Desktop Navigation */}
@@ -331,7 +331,7 @@ const Portfolio = () => {
                 <div className="w-32 h-32 md:w-40 md:h-40 rounded-full overflow-hidden border-4 border-emerald-500/30 shadow-2xl">
                   <Image
                     src="/images/profile-meryem.jpg"
-                    alt="BOURAMTANE MERYEM"
+                    alt="BOURAMTANE MERIEM"
                     width={160}
                     height={160}
                     className="w-full h-full object-cover"
@@ -344,7 +344,7 @@ const Portfolio = () => {
             
             <div className="mb-8">
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6 bg-gradient-to-r from-emerald-500 via-cyan-500 to-purple-500 bg-clip-text text-transparent">
-                BOURAMTANE MERYEM
+                BOURAMTANE MERYIEM
               </h1>
               <p className="text-xl sm:text-2xl lg:text-3xl mb-8 text-gray-300">
                 Ingénieure <span className="text-emerald-400">Énergie & Data</span> • 
@@ -442,7 +442,7 @@ const Portfolio = () => {
                   <div className="w-32 h-32 mx-auto rounded-full overflow-hidden border-4 border-emerald-500/20 shadow-lg mb-4">
                     <Image
                       src="/images/profile-meryem.jpg"
-                      alt="BOURAMTANE MERYEM"
+                      alt="BOURAMTANE MERIEM"
                       width={128}
                       height={128}
                       className="w-full h-full object-cover"
@@ -787,7 +787,7 @@ const Portfolio = () => {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <p className="mb-4 text-lg font-semibold">
-              BOURAMTANE MERYEM
+              BOURAMTANE MERIEM
             </p>
             <p className={`text-sm ${isDark ? 'text-gray-400' : 'text-gray-600'}`}>
               Ingénieure Énergie & Data • Spécialiste Gaz & Smart Grids • Systèmes Industriels
@@ -804,7 +804,7 @@ const Portfolio = () => {
               </a>
             </div>
             <p className={`text-xs ${isDark ? 'text-gray-500' : 'text-gray-400'} mt-6`}>
-              © 2025 BOURAMTANE MERYEM. Tous droits réservés.
+              © 2025 BOURAMTANE MERIEM. Tous droits réservés.
             </p>
           </div>
         </div>
