@@ -68,8 +68,8 @@ const Portfolio = () => {
       }
       
       const result = await emailjs.send(
-        'service_XXXXX',
-        'template_XXXXX',
+        'service_mrn6x1v',
+        'template_1su2ovb',
         {
           from_name: formData.nom,
           from_email: formData.email,
@@ -103,7 +103,7 @@ const Portfolio = () => {
   };
 
   useEffect(() => {
-    emailjs.init('XXXXXXX');
+    emailjs.init('28MwZDO0nkHdovcoP');
     
     const handleScroll = () => {
       const sections = ['home', 'about', 'experience', 'projects', 'skills', 'education', 'contact'];
