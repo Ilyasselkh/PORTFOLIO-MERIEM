@@ -402,10 +402,6 @@ const Portfolio = () => {
                   naturel et les technologies smart grids. Passionnée par l&apos;optimisation des processus 
                   industriels et la transition énergétique.
                 </p>
-                <p className="text-lg leading-relaxed">
-                  Actuellement à la recherche d&apos;un CDI pour contribuer à des projets innovants 
-                  dans le secteur de l&apos;énergie et du développement durable.
-                </p>
                 <div className="grid grid-cols-2 gap-4 pt-6">
                   <div className="flex items-center space-x-2">
                     <MapPin size={20} className="text-emerald-600" />
