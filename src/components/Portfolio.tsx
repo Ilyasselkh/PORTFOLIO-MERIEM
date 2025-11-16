@@ -723,7 +723,7 @@ const Portfolio = () => {
                           ? 'bg-slate-700 border-slate-600 text-white focus:border-emerald-600' 
                           : 'bg-gray-50 border-gray-300 text-gray-900 focus:border-emerald-600'
                       } focus:ring-2 focus:ring-emerald-600/20 outline-none transition-all`}
-                      placeholder="Opportunité CDI / Collaboration"
+                      placeholder="Collaboration"
                     />
                   </div>
                   
