@@ -415,10 +415,6 @@ const Portfolio = () => {
                     <Globe size={20} className="text-purple-500" />
                     <span>Français (C1), Anglais (B2), Arabe</span>
                   </div>
-                  <div className="flex items-center space-x-2">
-                    <Calendar size={20} className="text-emerald-500" />
-                    <span>Disponible pour CDI</span>
-                  </div>
                 </div>
                 
                 <div className="pt-6">
